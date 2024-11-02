@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/todo
+    username: root
+    password: Hansaja@1234
+
+  jpa:
+    hibernate:
+      ddl-auto: update
